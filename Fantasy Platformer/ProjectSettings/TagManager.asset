@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middle
+    uniqueID: 1060326717
+    locked: 0
+  - name: Props
+    uniqueID: 2826518463
+    locked: 0
+  - name: Ground
+    uniqueID: 2520894913
+    locked: 0
+  - name: Character
+    uniqueID: 593622085
+    locked: 0
+  - name: Front
+    uniqueID: 608240407
+    locked: 0
