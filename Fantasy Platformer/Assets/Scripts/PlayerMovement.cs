@@ -15,6 +15,10 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundMask;
     private Rigidbody2D rb;
 
+    [SerializeField] private AudioSource jumpSound;
+
+    
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -46,7 +50,9 @@ public class PlayerMovement : MonoBehaviour
      {
        if(isGrounded)
       rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+        jumpSound.Play();
     }
+
 
     private void HorizontalMovement(float direction)
     {
@@ -61,6 +67,22 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetAxis("Horizontal") > 0)
         {
             GetComponent<SpriteRenderer>().flipX = false;
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.name.Equals("Platform"))
+        {
+            this.transform.parent = collision.transform;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.name.Equals("Platform"))
+        {
+            this.transform.parent = null;
         }
     }
 

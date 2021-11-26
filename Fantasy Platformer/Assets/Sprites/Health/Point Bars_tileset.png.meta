@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 474b8d7a815b70048a6b10a409cc00b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9199253617815315318
+    second: Point Bars_tileset_0
+  - first:
+      213: -5095101485745587084
+    second: Point Bars_tileset_1
+  - first:
+      213: 7199422658866822838
+    second: Point Bars_tileset_2
+  - first:
+      213: 66618977373005090
+    second: Point Bars_tileset_3
+  - first:
+      213: 3634853488650819189
+    second: Point Bars_tileset_4
+  - first:
+      213: 2924878357953375299
+    second: Point Bars_tileset_5
+  - first:
+      213: -7762536129450398113
+    second: Point Bars_tileset_6
+  - first:
+      213: -177559153591208082
+    second: Point Bars_tileset_7
+  - first:
+      213: -4705929164082791730
+    second: Point Bars_tileset_8
+  - first:
+      213: -8507592711331206204
+    second: Point Bars_tileset_9
+  - first:
+      213: 2834090886718173503
+    second: Point Bars_tileset_10
+  - first:
+      213: 8115537324562996448
+    second: Point Bars_tileset_11
+  - first:
+      213: 5014151063303770684
+    second: Point Bars_tileset_12
+  - first:
+      213: 8467154337648669879
+    second: Point Bars_tileset_13
+  - first:
+      213: -8121747377302788408
+    second: Point Bars_tileset_14
+  - first:
+      213: 4070544009872706873
+    second: Point Bars_tileset_15
+  - first:
+      213: -3945262341532746331
+    second: Point Bars_tileset_16
+  - first:
+      213: 7375279797915794035
+    second: Point Bars_tileset_17
+  - first:
+      213: -1346586159541703487
+    second: Point Bars_tileset_18
+  - first:
+      213: -331061196142464542
+    second: Point Bars_tileset_19
+  - first:
+      213: 4917976810334739124
+    second: Point Bars_tileset_20
+  - first:
+      213: -8028550062312453643
+    second: Point Bars_tileset_21
+  - first:
+      213: 3275882809852891188
+    second: Point Bars_tileset_22
+  - first:
+      213: -172250270720180769
+    second: Point Bars_tileset_23
+  - first:
+      213: -8648399782876206327
+    second: Point Bars_tileset_24
+  - first:
+      213: 6260847589717202198
+    second: Point Bars_tileset_25
+  - first:
+      213: -4717993659424526861
+    second: Point Bars_tileset_26
+  - first:
+      213: -8296821464363520069
+    second: Point Bars_tileset_27
+  - first:
+      213: -6903731513373174127
+    second: Point Bars_tileset_28
+  - first:
+      213: 2265933007650735862
+    second: Point Bars_tileset_29
+  - first:
+      213: 1703691312723394286
+    second: Point Bars_tileset_30
+  - first:
+      213: 5641279426211259321
+    second: Point Bars_tileset_31
+  - first:
+      213: -7810559719791980361
+    second: Point Bars_tileset_32
+  - first:
+      213: 2889141236190696779
+    second: Point Bars_tileset_33
+  - first:
+      213: -5702746874033780524
+    second: Point Bars_tileset_34
+  - first:
+      213: -182533326258068380
+    second: Point Bars_tileset_35
+  - first:
+      213: -8990962791443671398
+    second: Point Bars_tileset_36
+  - first:
+      213: -728270578543179563
+    second: Point Bars_tileset_37
+  - first:
+      213: 17125620438386850
+    second: Point Bars_tileset_38
+  - first:
+      213: 1968271821652778070
+    second: Point Bars_tileset_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Point Bars_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 474
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673eb98fc605aaf70800000000000000
+      internalID: 9199253617815315318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 474
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb19791309a49b0800000000000000
+      internalID: -5095101485745587084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 474
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb7a993cc79e360800000000000000
+      internalID: 7199422658866822838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 474
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2252e916b9dace000800000000000000
+      internalID: 66618977373005090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 474
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761f995df7917230800000000000000
+      internalID: 3634853488650819189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce901be51479820800000000000000
+      internalID: 2924878357953375299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 409
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e29f7948ee54490800000000000000
+      internalID: -7762536129450398113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 409
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b39bf3ee298df0800000000000000
+      internalID: -177559153591208082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 409
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab1bcbb5e21beb0800000000000000
+      internalID: -4705929164082791730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 409
+        width: 61
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba6631185fee980800000000000000
+      internalID: -8507592711331206204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 339
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31320455a6b45720800000000000000
+      internalID: 2834090886718173503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 339
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec5000e23e20a070800000000000000
+      internalID: 8115537324562996448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 339
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c325e5273d7d59540800000000000000
+      internalID: 5014151063303770684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 339
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4f4f95200618570800000000000000
+      internalID: 8467154337648669879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 339
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6286c8ac1c94f80800000000000000
+      internalID: -8121747377302788408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8e07d53a7d7830800000000000000
+      internalID: 4070544009872706873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 272
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf633adcc9f39c0800000000000000
+      internalID: -3945262341532746331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 272
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab2e976e14a5660800000000000000
+      internalID: 7375279797915794035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 272
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2f0db507ff4de0800000000000000
+      internalID: -1346586159541703487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1330d9895d76bf0800000000000000
+      internalID: -331061196142464542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba5c993ad9204440800000000000000
+      internalID: 4917976810334739124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 214
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90d62614cd49090800000000000000
+      internalID: -8028550062312453643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 214
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43017172f06467d20800000000000000
+      internalID: 3275882809852891188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 214
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd32499a4b0c9df0800000000000000
+      internalID: -172250270720180769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 214
+        width: 64
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b291af736baf780800000000000000
+      internalID: -8648399782876206327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61554f126bff2e650800000000000000
+      internalID: 6260847589717202198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 144
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda47583c1568eb0800000000000000
+      internalID: -4717993659424526861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa6cb26d4cbdc80800000000000000
+      internalID: -8296821464363520069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 144
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d8b024c40130a0800000000000000
+      internalID: -6903731513373174127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6cad5a016327f10800000000000000
+      internalID: 2265933007650735862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeefbcde83ab4a710800000000000000
+      internalID: 1703691312723394286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 76
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3aa06dfb9d94e40800000000000000
+      internalID: 5641279426211259321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 76
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b013d421515b9390800000000000000
+      internalID: -7810559719791980361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 76
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b455411a5aa481820800000000000000
+      internalID: 2889141236190696779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 76
+        width: 53
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84f39bee5cbd0b0800000000000000
+      internalID: -5702746874033780524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464a7b828e2877df0800000000000000
+      internalID: -182533326258068380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96de333afea93380800000000000000
+      internalID: -8990962791443671398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 6
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c09174c9a4e5f0800000000000000
+      internalID: -728270578543179563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 6
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8c9ca39a7dc3000800000000000000
+      internalID: 17125620438386850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point Bars_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 51
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c560f1bc4b05b10800000000000000
+      internalID: 1968271821652778070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

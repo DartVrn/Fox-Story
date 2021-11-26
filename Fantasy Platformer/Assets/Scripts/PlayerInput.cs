@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[RequireComponent(typeof(PlayerMovement))]
+//[RequireComponent(typeof(PlayerMovement))]
 //[RequireComponent(typeof(Shooter))]
 public class PlayerInput : MonoBehaviour
 {

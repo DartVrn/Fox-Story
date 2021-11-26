@@ -12,17 +12,19 @@ public class PlayerAttack : MonoBehaviour
     public float attackRange;
     public int damage;
     public Animator omg;
+    [SerializeField] private AudioSource missAttack;
+    [SerializeField] private AudioSource attackMob;
 
     private void Update()
     {
         if(timeBtwAttack <= 0)
         {
-            if(Input.GetMouseButton(0))
-            {
+            //if(Input.GetMouseButton(0))
+            //{
               
-                omg.SetTrigger("isAttack");
+                //omg.SetTrigger("isAttack");
               
-            }
+            //}
             timeBtwAttack = startTimeBtwAttack;
         }
         else
@@ -33,6 +35,11 @@ public class PlayerAttack : MonoBehaviour
     public void OnAttack()
     {
         Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+        if (enemies.Length == 0)
+            missAttack.Play();
+        else
+            attackMob.Play();
+
         for (int i = 0; i < enemies.Length; i++)
         {
             enemies[i].GetComponent<Enemy>().TakeDamage(damage);

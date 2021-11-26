@@ -38,13 +38,21 @@ public class CharacterAnimation : MonoBehaviour
             anim.SetBool("isJamped", false);
         }
 
-       // if (Input.GetKey(KeyCode.Mouse0))
+        if (Input.GetKey(KeyCode.E))
+        {
+            anim.SetBool("Attack", true);
+        }
+        else
+        {
+            anim.SetBool("Attack", false);
+        }
+        //if (Input.GetKey(KeyCode.Mouse0))
         //{
-         //   anim.SetTrigger("isAttack");
+        //anim.SetTrigger("isAttack");
         //}
         //else
-       // {
-           // anim.SetTrigger("isAttack");
+        //{
+        // anim.SetTrigger("isAttack");
         //}
 
 
